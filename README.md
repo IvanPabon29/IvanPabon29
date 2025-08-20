@@ -1,14 +1,14 @@
 👋 Hola, soy @IvanPabon29
 
-👨‍💻 Estudiante de Desarrollo de Software.
+👨‍💻 Tecnólogo en Analisis y Desarrollo de Software y actualmente estudiante de Ingeniería de Software.
 
 🌟 Apasionado por la codificación, la tecnología y el aprendizaje continuo.
 
-💡 Interesado en el desarrollo web, particularmente con React y Node.js.
+💡 Me interesa el desarrollo web, Actualmente mejorando mis habilidades en tecnologías backend y frontend.
 
-📚 Actualmente mejorando mis habilidades en tecnologías backend y frontend.
+🚀 Me motiva aprender nuevas herramientas, construir soluciones que generen impacto y seguir creciendo como profesional en el área de la tecnología.
 
-🔍 Siempre buscando nuevos desafíos y oportunidades para crecer como desarrollador.
+📂 Aquí encontrarás algunos de mis proyectos personales, profesionales y desarrollos académicos.
 
 <!---
 IvanPabon29/IvanPabon29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
