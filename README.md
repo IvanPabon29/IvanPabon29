@@ -4,7 +4,7 @@
 
 🌟 Apasionado por la codificación, la tecnología y el aprendizaje continuo.
 
-💡 Me interesa el desarrollo web, Actualmente mejorando mis habilidades en tecnologías backend y frontend.
+💡 Actualmente mejorando mis habilidades en tecnologías backend y frontend.
 
 🚀 Me motiva aprender nuevas herramientas, construir soluciones que generen impacto y seguir creciendo como profesional en el área de la tecnología.
 
